@@ -1,0 +1,49 @@
+html {
+    background: #E5E5E5;
+}
+
+body {
+    font-family: 'Montserrat', 'sans-serif', 'Mansalva';
+}
+
+h2, footer {
+    font-family: 'Mansalva';
+}
+
+button {
+    border: none;
+}
+
+.itens-comprados {
+text-decoration: line-through;
+color: #413F3F;
+}
+
+
+input:disabled {
+    border: none;
+    background: none;
+    color: #413F3F;
+}
+
+input {
+    border: none;
+    background: none;
+    color: #413F3F;
+}
+
+main{
+    background-color: #F4F4F4;
+    margin-top: 8%;
+    box-shadow: 2px 2px 25px 4px rgba(0, 0, 0, 0.5);
+}
+
+.lista_tar, .tarefa{
+    color: black;
+    font-size: 2rem;
+}
+
+.save{
+    width: 30%;
+    font-size: 1rem;
+}
